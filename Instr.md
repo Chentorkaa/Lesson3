@@ -1,5 +1,5 @@
 ![git](git-support-algorithm-development-1.webp) 
-# This is my Git Tutorial
+# "ЭТО МОЯ ИНСТРУКЦИЯ"
 ## Команды:
 * *git init* - команда для инициализации файла
 * *git status* - команда для проверки статуса файла
